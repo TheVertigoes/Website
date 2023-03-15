@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8944e35d971b04b5e057",
-    "url": "/Website/static/css/main.9879aef1.chunk.css"
+    "revision": "7514dd9620e8b7b5cc45",
+    "url": "/Website/static/css/main.a4f14608.chunk.css"
   },
   {
-    "revision": "8944e35d971b04b5e057",
-    "url": "/Website/static/js/main.8944e35d.chunk.js"
+    "revision": "7514dd9620e8b7b5cc45",
+    "url": "/Website/static/js/main.7514dd96.chunk.js"
   },
   {
     "revision": "82f3f0cc799277e00c27",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/Website/static/media/Blondesfordiamonds.42bdbd97.png"
   },
   {
-    "revision": "217d9280fa1d1b625e7ae31c155f3b00",
+    "revision": "0515d7801ebcee136ca81528c1d6d6ef",
     "url": "/Website/index.html"
   }
 ];
