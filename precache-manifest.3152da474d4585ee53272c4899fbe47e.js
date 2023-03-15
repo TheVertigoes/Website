@@ -1,27 +1,27 @@
 self.__precacheManifest = [
   {
-    "revision": "0e566003246d32f10011",
-    "url": "/Website/static/css/main.79223ede.chunk.css"
+    "revision": "a06c5c28e4aaaf76ccb1",
+    "url": "/Website/static/css/main.b9845192.chunk.css"
   },
   {
-    "revision": "0e566003246d32f10011",
-    "url": "/Website/static/js/main.0e566003.chunk.js"
+    "revision": "a06c5c28e4aaaf76ccb1",
+    "url": "/Website/static/js/main.a06c5c28.chunk.js"
   },
   {
-    "revision": "f9a280cce4a84bd8f31a",
-    "url": "/Website/static/js/1.f9a280cc.chunk.js"
+    "revision": "58294a3d856a0542909d",
+    "url": "/Website/static/js/1.58294a3d.chunk.js"
   },
   {
-    "revision": "ef9d4cea9a9d0613a0ba",
+    "revision": "552f652d98bfb49b7c16",
     "url": "/Website/static/css/2.3ae0cc39.chunk.css"
   },
   {
-    "revision": "ef9d4cea9a9d0613a0ba",
-    "url": "/Website/static/js/2.ef9d4cea.chunk.js"
+    "revision": "552f652d98bfb49b7c16",
+    "url": "/Website/static/js/2.552f652d.chunk.js"
   },
   {
-    "revision": "c67e13f03b7cc9f73112",
-    "url": "/Website/static/js/runtime~main.c67e13f0.js"
+    "revision": "901755cf241bc774cf8a",
+    "url": "/Website/static/js/runtime~main.901755cf.js"
   },
   {
     "revision": "c629edcfda954652f467276f084de962",
@@ -76,7 +76,7 @@ self.__precacheManifest = [
     "url": "/Website/static/media/Blondesfordiamonds.42bdbd97.png"
   },
   {
-    "revision": "b8f0f9ea32176ad8d4c2a60b3b3193c6",
+    "revision": "42c5d08c79db678944b23ca4a32df9f8",
     "url": "/Website/index.html"
   }
 ];
