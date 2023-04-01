@@ -3,10 +3,8 @@ import "../../styles/Slideshow.css";
 
 function SlideUI({ slide }) {
   let isOdd = true;
-  let odd = "odd";
-  let even = even;
 
-  if (slide.id == 1) {
+  if (slide.id === 1) {
     isOdd = false;
   }
 

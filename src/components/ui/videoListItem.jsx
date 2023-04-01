@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 
-function videoListItem({ video, selectVideo }) {
+function VideoListItem({ video, selectVideo }) {
   const [img, setImg] = useState();
 
   const mountedRef = useRef(true);
@@ -64,4 +64,4 @@ function videoListItem({ video, selectVideo }) {
   );
 }
 
-export default videoListItem;
+export default VideoListItem;
