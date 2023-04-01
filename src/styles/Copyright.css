@@ -1,0 +1,13 @@
+.copyright--container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+}
+
+.copyright__text {
+  color: rgb(160, 160, 160);
+  font-size: 14px;
+  font-weight: 400;
+}

@@ -1,0 +1,8 @@
+body {
+  background-color: #050505;
+}
+
+.nav-open {
+  max-height: 100vh;
+  overflow: hidden;
+}
