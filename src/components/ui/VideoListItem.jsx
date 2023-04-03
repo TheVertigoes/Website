@@ -9,11 +9,9 @@ function VideoListItem({ video, selectVideo }) {
     const image = new Image();
     image.src = video.image;
     image.onload = () => {
-      setTimeout(() => {
-        if (mountedRef.current) {
-          setImg(image);
-        }
-      }, 300);
+      if (mountedRef.current) {
+        setImg(image);
+      }
     };
     return () => {
       mountedRef.current = false;

@@ -14,21 +14,21 @@ function Slideshow({ slideshows }) {
   const slideShowData = [
     {
       id: 1,
-      quote: "The dizzying sound of Hitchcock and James Bond",
-      person: "- Mads Kornum",
-      image: Image1,
-    },
-    {
-      id: 2,
-      quote: "A terrific soundtrack – just without a movie",
+      quote: "With an international footprint",
       person: "- Side 33",
-      image: Image2,
+      image: Image1,
     },
     {
       id: 3,
       quote: "Melodic and sensual indie-film-noir expression",
-      person: "- Mads Kornum",
+      person: "- Side 33",
       image: Image3,
+    },
+    {
+      id: 2,
+      quote: "A terrific soundtrack – just without a movie",
+      person: "- Mads Kornum",
+      image: Image2,
     },
     {
       id: 4,
@@ -38,7 +38,7 @@ function Slideshow({ slideshows }) {
     },
     {
       id: 5,
-      quote: "With an international footprint",
+      quote: "The dizzying sound of Hitchcock and James Bond",
       person: "- Mads Kornum",
       image: Image5,
     },

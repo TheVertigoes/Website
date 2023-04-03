@@ -14,9 +14,9 @@ function SlideUI({ slide }) {
         className="image__slider"
         style={{ backgroundImage: `url(${slide.image})` }}
       >
-        <div className={`image__info ${isOdd === true ? "odd" : "even"}`}>
-          <h1 className="image__quote">{`"${slide.quote}"`}</h1>
-          <h3 className="image__person">{slide.person}</h3>
+        <div className={`image__info image__info--${slide.id} ${isOdd === true ? "odd" : "even"}`}>
+          <h1 className={`image__quote image__quote--${slide.id}`}>{`"${slide.quote}"`}</h1>
+          <h3 className={`image__person image__person--${slide.id}`}>{slide.person}</h3>
         </div>
       </div>
     </div>

@@ -1,7 +1,7 @@
 import React from "react";
 import { videosList } from "../data/Videos";
-import VideoListItem from "./ui/VideoListItem.jsx";
 import "../styles/VideosList.css";
+import VideoListItem from "./ui/VideoListItem.jsx"
 
 function VideosList({ selectVideo }) {
   return (
