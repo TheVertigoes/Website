@@ -136,8 +136,8 @@ individual info CSS
 }
 
 .image__info--4 {
-  bottom: 36px;
-  right: 74px;
+  bottom: 56px;
+  right: 104px;
 }
 
 .image__quote--4 {
@@ -153,15 +153,81 @@ individual info CSS
   width: 700px;
 }
 
-@media (min-width: 2729px) {
+@media (max-width: 5654px) {
   .image__info--1 {
-    right: 1800px;
+    transform: scale(1.4);
+    right: 4000px;
+    top: 300px;
   }
 }
 
-@media (min-width: 2077px) {
+@media (max-width: 5261px) {
   .image__info--1 {
-    right: 1200px;
+    top: 240px;
+    right: 2900px;
+    transform: scale(1.2);
+  }
+}
+
+@media (max-width: 4318px) {
+  .image__info--1 {
+    top: 200px;
+    right: 2300px;
+  }
+}
+
+@media (max-width: 3532px) {
+  .image__info--1 {
+    top: 120px;
+    right: 1900px;
+  }
+}
+
+@media (max-width: 2944px) {
+  .image__info--1 {
+    right: 1600px;
+    transform: scale(1.1);
+  }
+
+  .image__info--2 {
+    right: 700px;
+  }
+}
+
+@media (max-width: 2765px) {
+  .image__info--1 {
+    right: 1350px;
+  }
+}
+
+@media (max-width: 2413px) {
+  .image__info--1 {
+    right: 1050px;
+    transform: scale(1);
+  }
+}
+
+@media (max-width: 2260px) {
+  .image__info--2 {
+  }
+}
+
+@media (max-width: 2151px) {
+  .image__info--1 {
+    right: 930px;
+    top: 80px;
+  }
+
+  .image__info--2 {
+    right: 500px;
+  }
+}
+
+@media (max-width: 1920px) {
+  .image__info--1 {
+    top: 68px;
+    right: 880px;
+    transform: scale(1);
   }
 }
 
