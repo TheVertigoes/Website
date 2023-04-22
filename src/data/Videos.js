@@ -5,8 +5,16 @@ import image4 from "../assets/Utopia.png"
 import image5 from "../assets/Breakthewaves.jpg"
 import image6 from "../assets/SaveYourSong.jpg"
 import image7 from "../assets/Blondesfordiamonds.png"
+import image8 from "../assets/Handful.jpg"
 
 export const videosList = [
+  {
+    id: 8,
+    title: "Handful of Notes",
+    videoId: "XFIjOWBETuU",
+    date: "21. Apr. 2023",
+    image: image8
+  },
   {
     id: 7,
     title: "Blondes for Diamonds",
