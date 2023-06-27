@@ -9,8 +9,7 @@ function Videos() {
       <div className="videos__top--info">
         <p className="videos__top--para">
           <b className="videos__top--bold"> THE VERTIGOES</b> find themselves in
-          a sensual and nostalgic Nordic Noir universe with a dramatic cinematic
-          soundscape and a captivating melancholy
+          a sensual and nostalgic Nordic Noir soundscape, with a dramatic and captivating melancholy
         </p>
       </div>
       <div className="videos--container">
