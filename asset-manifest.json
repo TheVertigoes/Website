@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.c0e5ac07.css",
-    "main.js": "/static/js/main.51ee5ff0.js",
-    "static/js/787.5e417e3b.chunk.js": "/static/js/787.5e417e3b.chunk.js",
+    "main.js": "/static/js/main.780215c6.js",
+    "static/js/496.6640745f.chunk.js": "/static/js/496.6640745f.chunk.js",
     "static/media/Breakthewaves.jpg": "/static/media/Breakthewaves.00aac060250cc9b96a5d.jpg",
     "static/media/Dontleavetwice.png": "/static/media/Dontleavetwice.d19aba0c6f5a772c8648.png",
     "static/media/Utopia.png": "/static/media/Utopia.0a9a0f4de73c26841276.png",
@@ -19,11 +19,11 @@
     "static/media/LogoLong.png": "/static/media/LogoLong.56e431db8bc238d0cae2.png",
     "index.html": "/index.html",
     "main.c0e5ac07.css.map": "/static/css/main.c0e5ac07.css.map",
-    "main.51ee5ff0.js.map": "/static/js/main.51ee5ff0.js.map",
-    "787.5e417e3b.chunk.js.map": "/static/js/787.5e417e3b.chunk.js.map"
+    "main.780215c6.js.map": "/static/js/main.780215c6.js.map",
+    "496.6640745f.chunk.js.map": "/static/js/496.6640745f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0e5ac07.css",
-    "static/js/main.51ee5ff0.js"
+    "static/js/main.780215c6.js"
   ]
 }
