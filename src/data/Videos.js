@@ -6,8 +6,16 @@ import image5 from "../assets/Breakthewaves.jpg"
 import image6 from "../assets/SaveYourSong.jpg"
 import image7 from "../assets/Blondesfordiamonds.png"
 import image8 from "../assets/Handful.jpg"
+import image9 from "../assets/HeavenMustKnow.jpg"
 
 export const videosList = [
+  {
+    id: 9,
+    title: "Heaven Must Know",
+    videoId: "zKYT6ZCyDp0",
+    date: "30. Jun. 2023",
+    image: image9
+  },
   {
     id: 8,
     title: "Handful of Notes",

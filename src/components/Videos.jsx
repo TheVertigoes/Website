@@ -2,6 +2,16 @@ import React from "react";
 import { Link } from "react-router-dom";
 import "../styles/Videos.css";
 import Video from "./ui/Video";
+import image1 from "../assets/Dancethemdown.png"
+import image2 from "../assets/Dontleavetwice.png"
+import image3 from "../assets/AudienceofLove.jpg"
+import image4 from "../assets/Utopia.png"
+import image5 from "../assets/Breakthewaves.jpg"
+import image6 from "../assets/SaveYourSong.jpg"
+import image7 from "../assets/Blondesfordiamonds.png"
+import image8 from "../assets/Handful.jpg"
+import image9 from "../assets/HeavenMustKnow.jpg"
+
 
 function Videos() {
   return (
@@ -13,6 +23,12 @@ function Videos() {
         </p>
       </div>
       <div className="videos--container">
+        <Video
+          title="Heaven Must Know"
+          img={image9}
+          date="30. Jun. 2023"
+          link="https://www.youtube.com/watch?v=zKYT6ZCyDp0"
+        />
         <Video
           title="Blondes for Diamonds"
           img="https://i.ytimg.com/vi/IV-dgRDg3gA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvm6ySIcaq2ZiAp6s9mFgL5mQtmg"
@@ -30,12 +46,6 @@ function Videos() {
           img="https://i.ytimg.com/vi/pGwqh0IpJ4w/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGQoVjAP&rs=AOn4CLAiNhTeVBwSLqVJIlewfkgt1CMUug"
           date="18. Jun. 2022"
           link="https://www.youtube.com/watch?v=pGwqh0IpJ4w"
-        />
-        <Video
-          title="Audience of Love"
-          img="https://i.ytimg.com/vi/k_J0kPxmg9s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAypq4tYolzorNYd-H-3Vs8Kgv19g"
-          date="6. May. 2022"
-          link="https://www.youtube.com/watch?v=k_J0kPxmg9s"
         />
         <Video
           title="Dance Them Down"
