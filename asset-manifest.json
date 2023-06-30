@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.c0e5ac07.css",
-    "main.js": "/static/js/main.780215c6.js",
+    "main.css": "/static/css/main.f406b4fb.css",
+    "main.js": "/static/js/main.adfd173a.js",
     "static/js/496.6640745f.chunk.js": "/static/js/496.6640745f.chunk.js",
     "static/media/Breakthewaves.jpg": "/static/media/Breakthewaves.00aac060250cc9b96a5d.jpg",
     "static/media/Dontleavetwice.png": "/static/media/Dontleavetwice.d19aba0c6f5a772c8648.png",
     "static/media/Utopia.png": "/static/media/Utopia.0a9a0f4de73c26841276.png",
+    "static/media/HeavenMustKnow.jpg": "/static/media/HeavenMustKnow.36e0a3e0d862b9a3b76c.jpg",
     "static/media/SaveYourSong.jpg": "/static/media/SaveYourSong.7ca4027e9e9eaecab400.jpg",
     "static/media/Blondesfordiamonds.png": "/static/media/Blondesfordiamonds.0b5ef14bac20325a558b.png",
     "static/media/Header_2.jpg": "/static/media/Header_2.27b3356b00cbe5325391.jpg",
@@ -18,12 +19,12 @@
     "static/media/Handful.jpg": "/static/media/Handful.d6321ba295fbff37bf65.jpg",
     "static/media/LogoLong.png": "/static/media/LogoLong.56e431db8bc238d0cae2.png",
     "index.html": "/index.html",
-    "main.c0e5ac07.css.map": "/static/css/main.c0e5ac07.css.map",
-    "main.780215c6.js.map": "/static/js/main.780215c6.js.map",
+    "main.f406b4fb.css.map": "/static/css/main.f406b4fb.css.map",
+    "main.adfd173a.js.map": "/static/js/main.adfd173a.js.map",
     "496.6640745f.chunk.js.map": "/static/js/496.6640745f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0e5ac07.css",
-    "static/js/main.780215c6.js"
+    "static/css/main.f406b4fb.css",
+    "static/js/main.adfd173a.js"
   ]
 }
